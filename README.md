@@ -1,1 +1,1 @@
-# iOS-Workout-Shortcut
+# iOS Workout Shortcut
