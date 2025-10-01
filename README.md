@@ -1,1 +1,1 @@
-[# iOS Workout Shortcut] (assets\Workout Shortcut Logo.png)
+[# iOS Workout Shortcut] (.assets\Workout Shortcut Logo.png)
