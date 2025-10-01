@@ -1,1 +1,3 @@
-[# iOS Workout Shortcut] (.assets\Workout Shortcut Logo.png)
+<p align="center">
+  <img src="./assets/Workout Shortcut Logo.png" alt="iOS Workout Shortcut" width="200"/>
+</p>
