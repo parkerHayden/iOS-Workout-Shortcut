@@ -49,5 +49,5 @@ makeTimer(
     size = 800, 
     startColor = (0,200,0),
     endColor = (200,0,0), 
-    fontPath = "Magic Vintage TTF.ttf",
+    fontPath = "assets/Magic Vintage TTF.ttf",
     outputPath = "assets/timer.gif")
