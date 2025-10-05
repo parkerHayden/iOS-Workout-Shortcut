@@ -7,7 +7,7 @@
 
 <h2>Setup</h2>
   <h3>Download</h3>
-  The sharelink to the shortcut is here: 
+  The sharelink to the shortcut is here: <a href="https://www.icloud.com/shortcuts/ffbeaed5c5114ed1b9fbd04713948a48">Shortcut</a>
 <h2>Known Problems</h2>
   <ul>
       <li>Sometimes not all of the characters will be saved after entering data into the Set info popup. I suggest clicking into another textbox when you're done putting in your last item. This is a problem on Apple's end.</li>
