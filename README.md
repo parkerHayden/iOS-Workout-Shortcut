@@ -14,3 +14,6 @@
   <ul>
       <li>Sometimes not all of the characters will be saved after entering data into the Set info popup. I suggest clicking into another textbox when you're done putting in your last item. This is a problem on Apple's end.</li>
   </ul> 
+
+<h2>Full Shortcut</h2>
+  <img src="./assets/Full Shortcut.png" alt="Full Shortcut"/>
