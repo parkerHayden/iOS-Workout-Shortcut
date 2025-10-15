@@ -6,7 +6,10 @@
   This apple shortcut is meant to function as a replacement for a workout application. What it does is give you a random workout from a set of exercises that you have chosen, not allowing you to repeat an exercise until all of them have been used. It allows you to input information about each exercise like weight, reps, and notes for each set that you do. It keeps this information stored in a .txt file and displays the information from the last time you completed each exercise as you get them again.
 
 <h2>Example</h2>
-
+  <p align="center">
+    <img src="./assets/example.gif" alt="example gif"/>
+  </p
+    This example only goes through a couple of exercises with only one set each.
 <h2>Setup</h2>
   <h3>Download</h3>
     The sharelink to the shortcut is here: <a href="https://www.icloud.com/shortcuts/ffbeaed5c5114ed1b9fbd04713948a48" target="_blank">Shortcut</a> 
