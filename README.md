@@ -8,8 +8,14 @@
 <h2>Example</h2>
   <p align="center">
     <img src="./assets/example.gif" alt="example gif"/>
-  </p
+  </p>
+  <p align="center">
     This example only goes through a couple of exercises with only one set each.
+  </p>
+
+
+
+  
 <h2>Setup</h2>
   <h3>Download</h3>
     The sharelink to the shortcut is here: <a href="https://www.icloud.com/shortcuts/ffbeaed5c5114ed1b9fbd04713948a48" target="_blank">Shortcut</a> 
@@ -98,13 +104,15 @@ makeTimer(
   <img src="./assets/timer.gif" alt="60 second timer gif" width="200"/>
 </p>
 
-<h2>Demo</h2>
-
 <h2>Known Problems</h2>
   <ul>
-      <li>Sometimes not all of the characters will be saved after entering data into the Set info popup. I suggest clicking into another textbox when you're done putting in your last item. This is a problem on Apple's end.</li>
+      <li>Sometimes not all of the characters will be saved after entering data into the Set info popup. 
+          I suggest clicking into another textbox when you're done putting in your last item. This is a problem on Apple's end.</li>
       <li>I don't claim that this shortcut is optimized at all, this was just a project I was working on as a proof of concept to teach myself how shortcuts work and what they are capable of.</li>
   </ul> 
+
+<h2>Future</h2>
+I recently discovered that I could display gif files straight from their url, so I would like to create a version that does not require downloading the files. Right now the ability to display the data from the last time an exercise was used works based on the fact that there are 15 exercises and each workout has 5 exercises, so it pulls data from the last 3 workouts. I could change this to taking the reverse order from Exercise History.txt, loop through the data from the latest workouts, pull the data from the first time the exercise was done and ignore all others. At some point I might combine all of these changes into another version of this shortcut that instead of being purely random from a set of exercises, it would allow the user to choose a muscle group to target and get a random exercise from that group. Similar, but completely changing the user experience.
 
 <h2>Full Shortcut</h2>
   <img src="./assets/Full Shortcut.png" alt="Full Shortcut"/>
