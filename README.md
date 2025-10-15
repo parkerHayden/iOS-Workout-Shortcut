@@ -3,7 +3,9 @@
 </p>
 
 <h1>iOS Workout Shortcut</h1>
-  This apple shortcut is meant to function as a replacement for a workout application. Currently it gives you a random workout from a set of exercises that you can choose. It is set up for one workout to consist of 5 exercises each with 3 sets (this is customizable).
+  This apple shortcut is meant to function as a replacement for a workout application. What it does is give you a random workout from a set of exercises that you have chosen, not allowing you to repeat an exercise until all of them have been used. It allows you to input information about each exercise like weight, reps, and notes for each set that you do. It keeps this information stored in a .txt file and displays the information from the last time you completed each exercise as you get them again.
+
+<h2>Example</h2>
 
 <h2>Setup</h2>
   <h3>Download</h3>
