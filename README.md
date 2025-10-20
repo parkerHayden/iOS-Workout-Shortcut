@@ -18,7 +18,7 @@
   
 <h2>Setup</h2>
   <h3>Download</h3>
-    The sharelink to the shortcut is here: <a href="https://www.icloud.com/shortcuts/ffbeaed5c5114ed1b9fbd04713948a48" target="_blank">Shortcut</a> 
+    The sharelink to the shortcut is here: <a href="https://www.icloud.com/shortcuts/dced128b0c844339b60770d997948f39" target="_blank">Shortcut</a> 
     and the helper shortcut is here: <a href="https://www.icloud.com/shortcuts/c1da6a89488541788f95b134baab3db2" target="_blank">Helper</a>
   <h3>Folder Structure</h3>
     The default shortcut links to a folder called "Exercises" which inside has a .Gif file called "timer" which displays between your sets and two folders: "Data" and "GIFs".     Inside of the "Data" folder is two .txt files:      Exercise History.txt and Recent Exercises.txt. Lastly, the "GIFs" folder contains all of the .gif files of the exercises you wish to have available in your workout.
