@@ -39,7 +39,7 @@
     You can get any .gif file for any exercise you would like, but if you want a consistant style of gif like I did, I would recommend using <a href="https://github.com/ExerciseDB/exercisedb-api" target="_blank">ExerciseDB</a> and their <a href="https://www.exercisedb.dev/docs" target="_blank">V1 API Playground</a> to search for a gif of (mostly) any exercise.
 
   <h3>Timer GIF</h3>
-    Originally, I wanted a timer of 20 seconds for my rest period. I found it difficult to find a timer for that amount of time, so I decided to write some Python code that would make the gif for me.
+    Originally, I wanted a timer of 20 seconds for my rest period. I found it difficult to find a timer for that amount of time, so I decided to write some Python code that would make the gif for me. Note that this code does not run directly on your phone — I ran this on my computer, generated the gif, and then sent it to my phone to store in the  Exercises directory.
     
 ```python
 from PIL import Image, ImageDraw, ImageFont
@@ -101,7 +101,7 @@ makeTimer(
   The code allows you to set the time interval you would like for your rest period, a start and end color for the timer to transition between, and a font for the numbers. NOTE: If you don't provide a font, the default that PIL provides ends up being really small and almost defeats the purpose of having the text there to begin with.
 
 <p align="center">
-  <img src="./assets/timer.gif" alt="60 second timer gif" width="200"/>
+  <img src="./assets/timers/60s.gif" alt="60 second timer gif" width="200"/>
 </p>
 
 <h2>Known Problems</h2>

@@ -1,5 +1,4 @@
 from PIL import Image, ImageDraw, ImageFont
-import math
 import numpy
 
 def makeGradient(startColor, endColor, colorSteps):
@@ -44,10 +43,11 @@ def makeTimer(time, size, startColor, endColor, fontPath, outputPath):
         disposal=2
     )
 
+seconds = 10
 makeTimer(
-    time = 60, 
+    time = seconds, 
     size = 800, 
     startColor = (0,200,0),
     endColor = (200,0,0), 
     fontPath = "assets/Magic Vintage TTF.ttf",
-    outputPath = "assets/timer.gif")
+    outputPath = f'assets/timers/{seconds}s.gif')
